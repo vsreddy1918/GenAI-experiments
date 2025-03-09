@@ -3,7 +3,7 @@
 
 ---
 
-# Hemaas Clinic Patient Portal Masterplan
+# Clinic Patient Portal Masterplan
 
 ## 1. App Overview & Objectives
 
