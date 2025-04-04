@@ -2,6 +2,7 @@
 ## 🧠 Resume Screening Assistant
 
 An intelligent, AI-powered Streamlit app to **analyze**, **match**, and **compare** candidate resumes against job descriptions. Ideal for recruiters and hiring managers to streamline the shortlisting process using LLMs and semantic search.
+![image](https://github.com/user-attachments/assets/bfadbaab-a328-4c4a-8873-a0c19114a7ad)
 
 
 
@@ -33,7 +34,7 @@ An intelligent, AI-powered Streamlit app to **analyze**, **match**, and **compar
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/vsreddy1918/GenAI-experiments/resume-screening-assistant.git
+git clone https://github.com/vsreddy1918/GenAI-experiments/Resume Screening Assistant.git
 cd resume-screening-assistant
 ```
 
@@ -66,6 +67,10 @@ streamlit run app.py
 | Upload & Process | Resume QA | Job Match |
 |------------------|-----------|-----------|
 | ![upload](screens/upload.png) | ![qa](screens/qa.png) | ![match](screens/match.png) |
+![image](https://github.com/user-attachments/assets/e4e66236-c717-40ba-afe9-58a8ea685345)
+![image](https://github.com/user-attachments/assets/c1493e3b-acb7-47dd-8cf1-f3b60a72ee6c)
+![image](https://github.com/user-attachments/assets/c153ebcd-957f-4447-9efa-56f8a1c33da1)
+
 
 ---
 
